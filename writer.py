@@ -1,3 +1,5 @@
+from shapes imoprt *
+
 class SVG:
     def __init__(self, filename="file.svg", width=500, height=500):
         self.filename = filename
